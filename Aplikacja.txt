@@ -19,3 +19,7 @@
 public void przypomnienieHasla() {
         System.out.println("Podaj poprawne hasło");
     }
+
+public void przypomnienieHasla2() {
+        System.out.println("Podaj poprawne hasło");
+    }
